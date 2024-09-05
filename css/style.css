@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(204, 239, 138);
+}
+h1{
+    background-color: aqua;
+}
+#paragraf{
+    background-color: blueviolet;
+}
+h2{
+    background-color: darkgray;
+}
+#paragraf1{
+    background-color: darkorange;
+}
+#s-1{
+    color: darkgray;
+}
+#s-2{
+    color: azure;
+}
+#s-3{
+    color: blue;
+}
+|#s-4{
+    color: rgb(91, 11, 118);
+}
+#s-5{
+    color: darkslateblue;
+}
